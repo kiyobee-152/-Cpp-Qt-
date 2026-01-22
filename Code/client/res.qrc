@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/menubg1.png</file>
+        <file>img/kuro.png</file>
+        <file>img/shiro.png</file>
+        <file>img/Title1.png</file>
+        <file>img/btnbg.jpg</file>
+        <file>img/opponent_no.png</file>
+        <file>img/opponent_ok.png</file>
+        <file>img/dog.png</file>
+        <file>img/none.png</file>
+    </qresource>
+</RCC>
