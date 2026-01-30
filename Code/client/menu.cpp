@@ -82,7 +82,7 @@ void Menu::on_local_game_btn_clicked()
 
 void Menu::on_about_btn_clicked()
 {
-    QMessageBox::information(this, "作者", "制作人：逆 光@CSDN \n本项目开源供大家学习参考", QMessageBox::Ok);
+    QMessageBox::information(this, "作者", "制作人：清兵卫@github \n本项目开源供大家学习参考", QMessageBox::Ok);
 }
 
 //退出游戏按钮点击事件
@@ -234,3 +234,4 @@ void Menu::join_game()
         this->show();
     });
 }
+
